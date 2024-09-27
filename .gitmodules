@@ -1,0 +1,3 @@
+[submodule "demos/rag_sample/deps/libpqxx"]
+	path = demos/rag_sample/deps/libpqxx
+	url = https://github.com/jtv/libpqxx.git
