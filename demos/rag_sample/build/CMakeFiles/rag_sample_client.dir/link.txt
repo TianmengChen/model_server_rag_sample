@@ -1,1 +1,0 @@
-/usr/bin/c++  -pthread -rdynamic CMakeFiles/rag_sample_client.dir/rag_sample_client.o -o rag_sample_client 
