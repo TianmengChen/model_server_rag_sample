@@ -26,4 +26,3 @@ cppclean_test
 tags
 .venv-style/
 src/test/llm_testing
-demos/rag_sample/build/
